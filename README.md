@@ -34,7 +34,7 @@ To run the script, you need the following dependencies:
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/Stock-Market-Anomaly-Detection.git
+git clone https://github.com/your-username/Anomaly-Detection-for-Stock-Market.git
 
 2. Install the required dependencies:
 
